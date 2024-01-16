@@ -13,21 +13,21 @@
 
 ## 🚀 Skills
 
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- ![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg)
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
-- ![phpMyAdmin](https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg)
-- ![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
-- ![NetBeans](https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg)
-- ![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg)
-- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=20)
+- ![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg | width=20)
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=20)
+- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg | width=20)
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg | width=20)
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg | width=20)
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg | width=20)
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=20)
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg | width=20)
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg | width=20)
+- ![phpMyAdmin](https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg | width=20)
+- ![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg | width=20)
+- ![NetBeans](https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg | width=20)
+- ![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg | width=20)
+- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg | width=20)
 
 ## 📈 GitHub Stats
 
