@@ -25,10 +25,8 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: (https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: (https://skillicons.dev) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
+- LinkedIn:[LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email:[alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
 
-- (https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- - (https://skillicons.dev/icons?i=gmail) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
 
 
