@@ -18,9 +18,6 @@
   </a>
 </p>
 
-%%%%%%%%
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,django,php,html,css,js,vscode,mysql,mongodb,anaconda,sklearn,figma,github)]
-
 ## 📈 GitHub Stats
 
 ![Deema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deema25Ra&show_icons=true&count_private=true)
