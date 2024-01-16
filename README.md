@@ -49,3 +49,11 @@
 ## 📫 Let's Connect!
 - [![LinkedIn](https://skillicons.dev/api/svg/linkedin)](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))]
 - Email: [![Gmail](https://i.imgur.com/xyz.png)](mailto:alresheeddeemaahmed@gmail.com)
+
+
+
+
+
+- [![LinkedIn](https://skillicons.dev/api/svg/linkedin)](Link to your LinkedIn)
+- [![Portfolio](https://skillicons.dev/api/svg/portfolio)](Link to your Portfolio)
+- Email: [![Gmail](https://i.imgur.com/gmail-icon.png)](mailto:deema@gmail.com)
