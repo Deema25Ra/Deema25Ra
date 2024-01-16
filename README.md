@@ -12,7 +12,7 @@
 
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Python,R,Java,SQL,PHP,HTML5,CSS3,js,vscode,MySQL,MongoDB,phpMyAdmin,NetBeans,Anaconda&perline=3)](https://skillicons.dev)
 
 ![Python](https://skillicons.dev/api/svg/python)
  ![R](https://skillicons.dev/api/svg/r)
