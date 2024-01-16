@@ -12,8 +12,13 @@
 
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,django,php,html,css,js,vscode,mysql,mongodb,anaconda,sklearn,figma,github)]
+![My Skills](https://skillicons.dev/icons?i=py,r,java,django,php,html,css,js,vscode,mysql,mongodb,anaconda,sklearn,figma,github)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=i=py,r,java,django,php,html,css,js,vscode,mysql,mongodb,anaconda,sklearn,figma,githu ,git" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
