@@ -24,15 +24,11 @@
 ![Deema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deema25Ra&show_icons=true&count_private=true)
 
 ## 📫 Let's Connect!
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- - [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
+- LinkedIn: (https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email: (https://skillicons.dev) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="1" height="1" />
-  </a>
-</p>
+- (https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+ - (https://skillicons.dev/icons?i=gmail) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
 
 
