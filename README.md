@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="10" height="10" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="1" height="1" />
   </a>
 </p>
 
