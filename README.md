@@ -13,35 +13,21 @@
 
 ## 🚀 Skills
 
-- **Programming Languages:**
-  - Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20">
-  - R <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20" height="20">
-  - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20">
-  - SQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="20" height="20">
-  - PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20">
-  - HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20">
-  - CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20">
-  - JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
-
-- **Databases:**
-  - MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20">
-  - MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" height="20">
-  - phpMyAdmin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" width="20" height="20">
-
-- **IDEs:**
-  - Visual Studio Code <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20">
-  - NetBeans <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="20" height="20">
-  - Anaconda <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="20" height="20">
-  - Jupyter <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="20" height="20">
-  - Colab <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/colab/colab-original.svg" width="20" height="20">
-  - R Studio <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="20" height="20">
-  - Android Studio <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="20" height="20">
-  - Figma <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" height="20">
-  - PyCharm <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="20" height="20">
-  - BBEdit <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bbedit/bbedit-original.svg" width="20" height="20">
-
-- **Methodologies:**
-  - Agile <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" width="20" height="20">
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+- ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg)
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
+- ![phpMyAdmin](https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg)
+- ![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+- ![NetBeans](https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg)
+- ![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg)
+- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
 
 ## 📈 GitHub Stats
 
