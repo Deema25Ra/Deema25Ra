@@ -12,22 +12,7 @@
 
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,django,php,html,css,js,vscode,mysql,MongoDB,phpMyAdmin,anaconda,figma,github&perline=3)](https://skillicons.dev)
-
-![Python](https://skillicons.dev/api/svg/python)
- ![R](https://skillicons.dev/api/svg/r)
-![Java](https://skillicons.dev/api/svg/java)
- ![SQL](https://skillicons.dev/api/svg/sql)
- ![PHP](https://skillicons.dev/api/svg/php)
- ![HTML5](https://skillicons.dev/api/svg/html5)
- ![CSS3](https://skillicons.dev/api/svg/css3)
- ![JavaScript](https://skillicons.dev/api/svg/javascript)
- ![MySQL](https://skillicons.dev/api/svg/mysql)
- ![MongoDB](https://skillicons.dev/api/svg/mongodb)
- ![phpMyAdmin](https://skillicons.dev/api/svg/phpmyadmin)
- ![VSCode](https://skillicons.dev/api/svg/vscode)
- ![NetBeans](https://skillicons.dev/api/svg/netbeans)
-![Anaconda](https://skillicons.dev/api/svg/anaconda)
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,django,php,html,css,js,vscode,mysql,mongodb,phpMyAdmin,anaconda,sklearn,figma,github&perline=3)]
 
 ## 📈 GitHub Stats
 
