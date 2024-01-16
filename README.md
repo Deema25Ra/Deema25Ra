@@ -43,11 +43,6 @@
 - **Methodologies:**
   - Agile <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" width="20" height="20">
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
 ## 📈 GitHub Stats
 
 ![Deema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deema25Ra&show_icons=true&count_private=true)
