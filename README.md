@@ -24,7 +24,7 @@
 ![Deema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deema25Ra&show_icons=true&count_private=true)
 
 ## 📫 Let's Connect!
- - linkedin [LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- - gmail Email: [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
+- (https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+ - (https://skillicons.dev/icons?i=gmail) [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
 
 
