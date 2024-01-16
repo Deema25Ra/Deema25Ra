@@ -1,6 +1,6 @@
 ### Hi there, I'm Deema 👋
 
-# Get to Know Me
+## Get to Know Me
 
 🏫 I'm a senior Information Technology student at King Saud University.
 
