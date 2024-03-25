@@ -26,7 +26,7 @@
 ## 📫 Let's Connect!
 
 - LinkedIn:[LinkedIn](https://www.linkedin.com/in/deema-alresheed-19566b213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email:[alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
+- Email:[deemaalresheed@gmail.com](mailto:deemaalresheed@gmail.com)
 
 
 
