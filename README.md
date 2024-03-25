@@ -8,7 +8,7 @@
 
 👯 I find joy in taking on difficult tasks and devising innovative solutions to challenges.
 
-📫 Reach me at [alresheeddeemaahmed@gmail.com](mailto:alresheeddeemaahmed@gmail.com)
+📫 Reach me at [deemaalresheed@gmail.com](mailto:deemaalresheed@gmail.com)
 
 
 ## 🚀 Skills
