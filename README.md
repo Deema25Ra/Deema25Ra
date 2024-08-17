@@ -2,9 +2,9 @@
 
 ## Get to Know Me
 
-🏫 I'm a senior Information Technology student at King Saud University.
+🏫 I'm a Graduate of Information Technology  at King Saud University.
 
-📝 I'm currently completing my Graduation project, working diligently until it's hosted, and ready to share a great accomplishment with you.
+🔍 I am seeking opportunities to apply my skills in a dynamic and innovative environment, aiming to contribute to and grow within impactful projects.
 
 👯 I find joy in taking on difficult tasks and devising innovative solutions to challenges.
 
